@@ -435,7 +435,8 @@ namespace UnityEngine.Tilemaps
                 return (Color)positionValue.data;
             }
             return defaultValue;
-        }
+        } 
+
 
         /// <summary>
         /// Erases information stored at the given position with the given property name
